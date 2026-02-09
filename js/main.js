@@ -191,6 +191,7 @@ function renderContact() {
                     <a href="${userData.socials.github}" target="_blank"><i data-lucide="github"></i></a>
                     <a href="${userData.socials.instagram}" target="_blank"><i data-lucide="instagram"></i></a>
                     <a href="${userData.socials.linkedin}" target="_blank" title="Connect on LinkedIn"><i data-lucide="linkedin"></i></a>
+                    <a href="mailto:${userData.email}" title="Send Email"><i data-lucide="mail"></i></a>
                 </div>
             </div>
             
