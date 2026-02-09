@@ -9,7 +9,7 @@ export const userData = {
   socials: {
     instagram: "https://instagram.com/Pradeepa_pradi2003",
     github: "https://github.com/Pradeep123-king?tab=repositories",
-    linkedin: "#", // Placeholder as not provided
+    linkedin: "https://www.linkedin.com/in/pradeep-pradi-a23861344",
   },
   projects: [
     {
@@ -18,8 +18,8 @@ export const userData = {
       tech: ["Java", "JDBC", "JSP", "CSS", "HTML", "MySQL"],
       description: "A comprehensive full-stack food delivery platform built with Java Spring Boot backend and React frontend. Features include real-time order tracking, cart management, and admin dashboard.",
       image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=1200",
-      link: "https://github.com/Pradeep123-king/food-delivery-app",
-      demo: "http://localhost:8081/foodproject/"
+      link: "https://github.com/Pradeep123-king/food-delivery-app/tree/master/foodproject",
+      demo: "https://github.com/Pradeep123-king/food-delivery-app"
     },
     {
       title: "Netflix Clone",
@@ -27,8 +27,8 @@ export const userData = {
       tech: ["HTML", "CSS", "JavaScript"],
       description: "A feature-rich cinematic experience with dynamic content fetching, user authentication, and a sleek, responsive interface inspired by the Netflix ecosystem. Implements core functionalities like movie previews and multi-profile session management.",
       image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&q=80&w=800",
-      link: "https://github.com/Pradeep123-king/Netflix-clone",
-      demo: "https://pradi-netttflix-lites.netlify.app/"
+      link: "https://github.com/Pradeep123-king/StreamFlixs",
+      demo: "https://pradeep123-king.github.io/StreamFlixs/"
     },
     {
       title: "Personal Portfolio",
@@ -36,8 +36,8 @@ export const userData = {
       tech: ["HTML", "CSS", "JavaScript"],
       description: "A modern, responsive developer portfolio featuring a dark neon aesthetic, 3D visualizations, and interactive elements. Built to showcase skills and projects effectively.",
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800",
-      link: "https://github.com/Pradeep123-king?tab=repositories",
-      demo: "#"
+      link: "https://github.com/Pradeep123-king/Developer-Portfolio",
+      demo: "https://pradeep123-king.github.io/Developer-Portfolio/"
     },
   ],
   experience: [

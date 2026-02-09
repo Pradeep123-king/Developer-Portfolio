@@ -190,7 +190,7 @@ function renderContact() {
                 <div class="social-links" style="justify-content: flex-start; margin-top: 30px;">
                     <a href="${userData.socials.github}" target="_blank"><i data-lucide="github"></i></a>
                     <a href="${userData.socials.instagram}" target="_blank"><i data-lucide="instagram"></i></a>
-                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=${userData.email}" target="_blank" title="Open Gmail in browser"><i data-lucide="mail"></i></a>
+                    <a href="${userData.socials.linkedin}" target="_blank" title="Connect on LinkedIn"><i data-lucide="linkedin"></i></a>
                 </div>
             </div>
             
